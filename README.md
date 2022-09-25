@@ -10,7 +10,7 @@
 
 
 ## Preview
-![streamlit-app-2021-03-03-18-03-82](https://user-images.githubusercontent.com/52796258/109809364-39908d00-7c4e-11eb-808e-4cc7773acfdb.gif)
+![streamlit-app-2021-03-03-18-03-82](https://github.com/abdullahaltushar/data_engineering_assigment/blob/master/Untitled%20video%20-%20Made%20with%20Clipchamp.gif)
 ## Functionalities
 - [ ]  User can choose amount options
 - [ ]  User can select food amount limited option food
